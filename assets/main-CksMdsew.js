@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/boot-home-BHADZ_OQ.js","assets/Photo-kzbsosXx.js"])))=>i.map(i=>d[i]);
+import{n as e,t}from"./preload-helper-DVxsz8ct.js";e(()=>t(()=>import(`./boot-home-BHADZ_OQ.js`),__vite__mapDeps([0,1])));
